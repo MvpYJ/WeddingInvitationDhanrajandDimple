@@ -178,7 +178,7 @@ a:hover{
 }
 .home-img{
    
-    background-image: url(/20231123_632357_UPI09871.jpeg);
+    background-image: url('20231123_632357_UPI09871.jpeg');
     background-size: cover;
     background-position: center;
 }
