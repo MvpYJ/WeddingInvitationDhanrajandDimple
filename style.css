@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap');
 
 /* <===================CSS VARIABLES===================> */
-
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Quicksand&display=swap');
 :root{
     --h1-size: 7rem;
     --h2-size: 2.1rem;
