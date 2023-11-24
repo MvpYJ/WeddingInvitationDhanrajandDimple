@@ -335,7 +335,7 @@ a:hover{
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('20230722184721_IMG_1106.JPG');
+    background-image: url('bg.JPG');
 }
 @media (max-width:1000px){
     .gallery{
@@ -379,9 +379,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-   
-    
-     background-image: url('bg.JPG');
+    background-image: url('20230722184721_IMG_1106.JPG');
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
