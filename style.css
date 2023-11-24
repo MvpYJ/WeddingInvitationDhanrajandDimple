@@ -308,15 +308,15 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url('/20230721122547_IMG_0902.JPG');
+    background-image: url('20230721122547_IMG_0902.JPG');
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url('/20231123_800757_UPI09489.jpeg');
+    background-image: url('20231123_800757_UPI09489.jpeg');
 }
 .gallery-img:nth-child(2){
     background-position-y: top;
-    background-image: url('/20230722184721_IMG_1106.JPG');
+    background-image: url('20230722184721_IMG_1106.JPG');
 }
 @media (max-width:1000px){
     .gallery{
@@ -360,7 +360,7 @@ a:hover{
 .hands{
     height: 120vh;
     width: 100%;
-    background-image: url('/20231015_202331.jpg');
+    background-image: url('20231015_202331.jpg');
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
@@ -417,7 +417,7 @@ a:hover{
     display: block;
     height: 100vh;
     width: 40vw;
-    background-image: url('/20231015_205847.jpg');
+    background-image: url('20231015_205847.jpg');
     background-size: cover;
     background-position-y: top;
     background-repeat: no-repeat;
