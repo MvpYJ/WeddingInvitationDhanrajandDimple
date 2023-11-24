@@ -327,7 +327,7 @@ a:hover{
     background-position: center;
 }
 .gallery-img:nth-child(1){
-    background-image: url('20230721122547_IMG_0902.JPG');
+   background-image: url('20231123_800757_UPI09489.jpeg');
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
@@ -380,7 +380,8 @@ a:hover{
     height: 120vh;
     width: 100%;
    
-    background-image: url('20231123_800757_UPI09489.jpeg');
+    
+     background-image: url('20230721122547_IMG_0902.JPG');
     background-size: cover;
     background-position-y: center;
     background-attachment: fixed;
