@@ -331,10 +331,11 @@ a:hover{
     background-position-x: right;
 }
 .gallery-img:nth-child(3){
-    background-image: url('20231015_202331.jpg');
+     background-image: url('IMG-20231125-WA0003.jpg');
+    
 }
 .gallery-img:nth-child(2){
-    background-image: url('IMG-20231125-WA0003.jpg');
+    background-image: url('20231015_202331.jpg');
     background-position-y: top;
     
 }
